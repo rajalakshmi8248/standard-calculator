@@ -162,11 +162,12 @@ for (item of buttons) {
 ```
 ## OUTPUT:
 
-![OUTPUT](./ex8.png)
+![OUTPUT](./ex8out.png)
+
 
 ## server:
 
-![OUTPUT](./ex8out.png)
+![OUTPUT](./ex8.png)
 
 
 ## Result:
